@@ -69,6 +69,13 @@ There are also some command line tools defined in the `cli` module.
 - to preview the docs do `nbdev_preview`
 - to push a new version, use `nbdev_prepare` and then push.
 
+If VS code gives trouble:
+
+``` bash
+export CONDA_PREFIX=/Users/dellaert/miniforge3/envs/nbdev2
+conda activate nbdev2
+```
+
 To release a new version:
 
 - `nbdev_bump_version`
