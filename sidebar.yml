@@ -7,6 +7,7 @@ website:
       - logistics.ipynb
       - diffdrive.ipynb
       - driving.ipynb
+      - highway.ipynb
       - drone.ipynb
       - stonehenge.ipynb
       - display.ipynb
